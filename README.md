@@ -11,10 +11,10 @@ I'm on a quest to transform ideas into elegant and efficient software solutions.
 
 ## Projects Forged in the Fires of Innovation 🔥
 
-### [XP-Navdata_Tool](https://github.com/6639835/XP-Navdata_Tool) ✈️
+### [VOR-FIX-CALCULATION](https://github.com/6639835/VOR-FIX-CALCULATION) ✈️
 Navigate the skies with ease! This tool helps streamline and manage navdata for flight simulation enthusiasts.  It's about making the virtual skies feel a little more real.
 
-### [PMDG-NavData](https://github.com/6639835/PMDG-NavData) 🗺️
+### [X-Plane-Airway-Filter](https://github.com/6639835/X-Plane-Airway-Filter) 🗺️
 Ensuring precision in flight! A project dedicated to keeping PMDG aircraft navigation data up-to-date. Because accuracy is key, even in simulated worlds.
 
 ## My GitHub Galaxy 🌌
