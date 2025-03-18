@@ -23,7 +23,7 @@ Ensuring precision in flight! A project dedicated to keeping PMDG aircraft navig
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6639835&layout=compact&theme=radical)](https://github.com/6639835)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6639835&theme=dark)](https://github.com/yourusername)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6639835&theme=dark)](https://github.com/6639835)
 
 ## Let's Connect! 🤝
 
