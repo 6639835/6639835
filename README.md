@@ -58,6 +58,10 @@ I'm a passionate software engineer focused on building elegant, scalable solutio
   <img src="https://github-profile-trophy.vercel.app/?username=6639835&theme=nord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6639835&theme=react-dark" alt="Contribution Graph" />
+</p>
+
 ## Connect With Me 🤝
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6639835@gmail.com)
