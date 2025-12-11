@@ -22,7 +22,8 @@ Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
 
 ### 🎮 Coding Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6639835&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&custom_title=💻+Most+Used+Languages&border_radius=10"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=6639835&layout=compact&hide_border=true&custom_title=💻+Most+Used+Languages
+"/>
 
 ### 🛠 Projects
 - [**X-Plane Plugin Example**](https://github.com/6639835/xplane-plugin-example) – Cross-platform X-Plane plugin with OpenAL audio integration  
@@ -33,7 +34,8 @@ Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
 ---
 
 ### 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=6639835&show_icons=true&theme=transparent&hide_title=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=6639835&show_icons=true&hide_title=true
+)
 
 ---
 
