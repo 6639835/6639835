@@ -35,12 +35,16 @@ Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
 
 ### 🛠 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [**X-Plane Plugin Example**](https://github.com/6639835/xplane-plugin-example) | Cross-platform X-Plane plugin with OpenAL audio. |
-| [**Chart Viewer**](https://github.com/6639835/chart-viewer) | Aviation chart viewer application. |
-| [**X-Plane Keyboard Input**](https://github.com/6639835/X-Plane-KeyboardInput) | Keyboard input plugin for X-Plane. |
-| [**XP2GDL90**](https://github.com/6639835/xp2gdl90) | X-Plane → GDL90 data converter. |
+| Project                                                                           | Description                                                                                                 |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [**X-Plane Plugin Example**](https://github.com/6639835/xplane-plugin-example)    | Cross-platform X-Plane plugin demonstrating OpenAL audio integration.                                       |
+| [**Chart Viewer**](https://github.com/6639835/chart-viewer)                       | Aviation chart viewer application.                                                                          |
+| [**X-Plane Keyboard Input**](https://github.com/6639835/X-Plane-KeyboardInput)    | Keyboard input plugin for X-Plane.                                                                          |
+| [**Cursor Machine ID Reset**](https://github.com/6639835/cursor-machine-id)       | Simple, cross-platform tool to reset Cursor editor device IDs.                                              |
+| [**METAR / TAF Decoder**](https://github.com/6639835/metar-taf-decoder)           | Modular Python library for parsing and decoding aviation weather reports (METAR and TAF).                   |
+| [**Cursor Account Switcher**](https://github.com/6639835/cursor-account-switcher) | High-performance, cross-platform desktop app for managing multiple Cursor AI accounts (Tauri, Rust, React). |
+| [**Cursor Card**](https://github.com/6639835/cursor-card)                         | Browser extension for auto-filling payment forms.                                                           |
+| [**XP2GDL90**](https://github.com/6639835/xp2gdl90)                               | X-Plane to GDL90 data converter.                                                                            |
 
 ---
 
