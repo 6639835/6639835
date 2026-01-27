@@ -28,6 +28,8 @@ Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" /></a>
+<a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
+<a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /></a>
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 
@@ -37,22 +39,19 @@ Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
 
 | Project                                                                           | Description                                                                                                 |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [**X-Plane Plugin Example**](https://github.com/6639835/xplane-plugin-example)    | Cross-platform X-Plane plugin demonstrating OpenAL audio integration.                                       |
 | [**Chart Viewer**](https://github.com/6639835/chart-viewer)                       | Aviation chart viewer application.                                                                          |
 | [**X-Plane Keyboard Input**](https://github.com/6639835/X-Plane-KeyboardInput)    | Keyboard input plugin for X-Plane.                                                                          |
-| [**Cursor Machine ID Reset**](https://github.com/6639835/cursor-machine-id)       | Simple, cross-platform tool to reset Cursor editor device IDs.                                              |
 | [**METAR / TAF Decoder**](https://github.com/6639835/metar-taf-decoder)           | Modular Python library for parsing and decoding aviation weather reports (METAR and TAF).                   |
 | [**Cursor Account Switcher**](https://github.com/6639835/cursor-account-switcher) | High-performance, cross-platform desktop app for managing multiple Cursor AI accounts (Tauri, Rust, React). |
-| [**Cursor Card**](https://github.com/6639835/cursor-card)                         | Browser extension for auto-filling payment forms.                                                           |
 | [**XP2GDL90**](https://github.com/6639835/xp2gdl90)                               | X-Plane to GDL90 data converter.                                                                            |
+| [**trace-web**](https://github.com/6639835/trace-web)                             | The official website of Trace                                                                               |
 
 ---
 
 ### 🚀 What I'm Building
-- Aviation-related utilities and data tools  
-- UI improvements for chart/map viewing  
-- Rust + Go experiments for high-performance sim apps  
-- Next.js + TypeScript dashboards  
+- Native iOS network capture app  
+- Modern Next.js website  
+- Rust and Go high-performance app  
 
 ---
 
