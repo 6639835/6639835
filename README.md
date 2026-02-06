@@ -7,7 +7,7 @@ Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
 ---
 
 ### 🧭 About
-- Focused on aviation projects  
+- Focused on websites and native iOS apps.  
 - Experienced with Python, TypeScript, React, and Next.js  
 - Interested in data visualization, backend design, and full-stack projects  
 - Believes in clear logic and simple design  
