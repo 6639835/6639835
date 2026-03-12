@@ -2,7 +2,7 @@
 
 My name is Justin. I'm a student who codes things that interest me.
 
-Discover more of me at [JustinL's Blog](https://blog.justinl.site/)
+Discover more of me at [Justin's Personal Website](https://me.justinl.site) or [JustinL's Blog](https://blog.justinl.site/)
 
 ---
 
